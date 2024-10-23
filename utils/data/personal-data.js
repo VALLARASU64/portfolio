@@ -1,0 +1,17 @@
+export const personalData = {
+  name: "MAHALAXMI R",
+  profile: '/maha_photo.jpg',
+  designation: "Software Developer",
+  description: "I am Mahalaxmi R., currently pursuing a degree in Information Technology at Bharathidasan Engineering College. While I am passionate about my studies, I have found web development to be less appealing. However, I recognize its importance and aspire to become a skilled Full Stack Web Developer. Over the next two years, I am committed to mastering Full Stack Web Development.Throughout my academic journey, I have achieved success in various domains, including sports, workshops, and seminars. I take pride in continuously enhancing my knowledge by learning new technical skills and staying updated with the latest advancements in technology. With dedication and perseverance, I aim to build a successful career in Full Stack Web Development..",
+  email: 'mahalaxmirajapart@gmail.com',
+  phone: '+91 93426 10170',
+  address: '2/186 A, nehru Street alangkuppam, Ambur .',
+  github: '',
+  facebook: '',
+  linkedIn: '',
+  twitter: '',
+  stackOverflow: '',
+  leetcode: "",
+  devUsername: "",
+  resume: "https://drive.google.com/file/d/1fq3gW1u2UTlBF9gr2xPLAQ2tCBpY7a5v/view?usp=drivesdk",
+}
